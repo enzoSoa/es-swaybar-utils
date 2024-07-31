@@ -52,4 +52,4 @@ else
   fi;
 fi
 
-echo $icon$percentage%
+echo $icon $percentage%
