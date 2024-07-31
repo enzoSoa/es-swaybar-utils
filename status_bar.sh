@@ -22,7 +22,8 @@ while :; do
   "
   echo "
     {
-      \"full_text\": \"$($script_path/clock.sh)\"
+      \"full_text\": \"$($script_path/clock.sh)\",
+      \"separator\": \"false\"
     },
   "
 

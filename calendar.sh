@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo $(date +' %m-%d-%Y')
+echo $(date +' %d/%m/%Y')
